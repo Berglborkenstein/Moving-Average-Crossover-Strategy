@@ -2,7 +2,7 @@
 
 This project implements a simple moving average crossover trading strategy using historical price data. Generates buy and sell signals based on when the long and short-term moving averages cross over.
 
-## 📈 Strategy Overview
+## Strategy Overview
 
 The strategy works as follows:
 - **Buy Signal**: When the short-term moving average crosses **above** the long-term moving average.
